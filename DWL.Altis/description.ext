@@ -1,0 +1,8 @@
+enableDebugConsole = 1;
+saving = 0;
+
+class cfgFunctions
+{
+	#include "DWL\functions\functions.hpp"
+};
+
